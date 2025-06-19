@@ -1,0 +1,1 @@
+BASIC_URL = "https://www.nseindia.com/market-data/live-equity-market?symbol=Nifty%2050"
